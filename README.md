@@ -1,2 +1,2 @@
 # Multisig-Wallet
-Ethereum Wallet that allows multiple users as multisignature features.
+Ethereum Wallet that allows multiple users with multi signature features.
